@@ -31,7 +31,7 @@
    * Visiting http://localhost:3001/ in your browser will display the functional application.
    
    ## Deployed Application
-   [View the deployed application here.]()
+   [View the deployed application here. Via Render.](https://module11-note-taker.onrender.com/)
    
    ## License
    This project is covered under the following license:
